@@ -22,3 +22,10 @@ a=int(input("Enter the value of a : "))
 b=int(input("Enter the value of b : "))
 
 print(f"The Value of 'a' is {a} The {type(a)}")
+
+
+# hear converting to integer using eval function
+
+a=eval(input("Enter the value of a : "))
+b=eval(input("Enter the value of b : "))
+print(f"The Value of a is : {a} the type is :{type(a)}")
