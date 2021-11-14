@@ -9,7 +9,7 @@ print(f"The Addition of 'a' and 'b' is : {result}")
 #	Note: Hear we are fixing the a nd b value  so ther is no chaing result 
 
 # Read the Input from command line every time 
-
+'''
 a=input("enter the 'a' value : ")
 b=input("enter the 'b' value : ")
 
@@ -23,7 +23,7 @@ b=int(input("Enter the value of b : "))
 
 print(f"The Value of 'a' is {a} The {type(a)}")
 
-
+'''
 # hear converting to integer using eval function
 
 a=eval(input("Enter the value of a : "))
