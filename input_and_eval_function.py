@@ -13,6 +13,7 @@ print(f"The Addition of 'a' and 'b' is : {result}")
 a=input("enter the 'a' value : ")
 b=input("enter the 'b' value : ")
 
+print(f"The Value of 'a' is {a} The type of 'a' is : {type(a)}")
 
 
 
