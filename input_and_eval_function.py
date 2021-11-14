@@ -16,4 +16,8 @@ b=input("enter the 'b' value : ")
 print(f"The Value of 'a' is {a} The type of 'a' is : {type(a)}")
 
 
+# hear converting to integer
+a=int(input("Enter the value of a : ")
+b=int(input("Enter the value of b : ")
 
+print(f"The Value of 'a' is {a} The {type(a)}")
